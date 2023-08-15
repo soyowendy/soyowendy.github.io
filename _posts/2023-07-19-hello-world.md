@@ -4,7 +4,6 @@ author: souowendy
 date: 2023-07-19 14:26:00 -0300
 categories: [Blogging]
 tags: [no tech related]
-pin: true
 ---
 
 Meu objetivo nesse post é falar mais sobre esse novo projeto e sobre quais as minhas expectativas. E bem… Confesso que minhas expectativas provavelmente são bem altas.
